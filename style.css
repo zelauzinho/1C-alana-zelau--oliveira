@@ -3,6 +3,11 @@
    front-size: 30;
 }
 
+.minhalista {
+   color: purple;
+   front-size: 20;
+}
+
 #imagem {
    text-align: center;
 }
