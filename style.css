@@ -8,6 +8,21 @@
    front-size: 20;
 }
 
+#destaque {
+   border: Spx;
+   border-style: dashed;
+   border-color: blue;
+   border-top-left-radius: 500px;
+   border-top-right-radius: 500px;
+   border-bottom-left-radius: 500px;
+   border-tottom-right-radius: 500px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   margin-left: 500px;
+   margin-right:500px
+      background: yellow;
+}
+
 #imagem {
    text-align: center;
 }
