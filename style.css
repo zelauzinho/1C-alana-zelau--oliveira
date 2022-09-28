@@ -8,6 +8,14 @@
    front-size: 20;
 }
 
+.cabecalho {
+   border-bottom-style: solid;
+   margin-left: -8px;
+   margin-right: -8px;
+   background: greenyellow;
+   padding-top: 5px;
+}
+
 #destaque {
    border: Spx;
    border-style: dashed;
