@@ -59,6 +59,10 @@
       background: yellow;
 }
 
+#lateral {
+   float: right;
+}
+
 #imagem {
    text-align: center;
 }
